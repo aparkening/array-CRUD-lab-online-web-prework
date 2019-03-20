@@ -8,9 +8,9 @@ def create_an_array
   ["a", "b", "c", "d"]
 end
 
-# Create an array with four elements
+# Take arguments of an array and an element and add that element to the end of the array
 def add_element_to_end_of_array(array, element)
-  
+  array = 
 end
 
 def add_element_to_start_of_array(array, element)
