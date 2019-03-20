@@ -5,10 +5,10 @@ end
 
 # Create an array with four elements
 def create_an_array
-  
-  
+  ["a", "b", "c", "d"]
 end
 
+# Create an array with four elements
 def add_element_to_end_of_array(array, element)
   
 end
