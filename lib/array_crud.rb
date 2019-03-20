@@ -13,8 +13,9 @@ def add_element_to_end_of_array(array, element)
   array << element 
 end
 
+# Take arguments of an array and an element and add that element to the start of the array"
 def add_element_to_start_of_array(array, element)
-  
+  array element 
 end
 
 def remove_element_from_end_of_array(array)
