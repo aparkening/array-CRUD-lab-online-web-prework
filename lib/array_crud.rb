@@ -1,8 +1,11 @@
+# Create empty array
 def create_an_empty_array
   [ ]
 end
 
+# Create an array with four elements
 def create_an_array
+  
   
 end
 
