@@ -35,10 +35,10 @@ end
 
 # Take an argument of an array and return the first element stored in the array
 def retrieve_first_element_from_array(array)
-  array.
+  array.first
 end
 
 # Take an argument of an array and return the last element of that array
 def retrieve_last_element_from_array(array)
-  
+  array.last
 end
