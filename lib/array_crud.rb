@@ -30,7 +30,7 @@ end
 
 # Take an argument of an array and an index number and return the element stored at that index
 def retrieve_element_from_index(array, index_number)
-  
+  array[index_number]
 end
 
 # Take an argument of an array and return the first element stored in the array
