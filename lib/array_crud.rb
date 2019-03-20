@@ -33,6 +33,7 @@ def retrieve_element_from_index(array, index_number)
   
 end
 
+# Take an argument of an array and return the first element stored in the array
 def retrieve_first_element_from_array(array)
   
 end
