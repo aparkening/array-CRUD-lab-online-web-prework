@@ -28,6 +28,7 @@ def remove_element_from_start_of_array(array)
   array.shift
 end
 
+# Take an argument of an array and an index number and return the element stored at that index
 def retrieve_element_from_index(array, index_number)
   
 end
